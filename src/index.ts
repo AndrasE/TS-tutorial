@@ -1,3 +1,4 @@
+//variables
 console.log("asd")
 let age: number = 20
  if (age < 50) 
@@ -20,10 +21,12 @@ let age: number = 20
 //  const medium = 2;
 //  const large = 3; 
 
-
-
  //use PascalCase
  const enum Size { Small = 1, Medium, Large }; 
  let mySize: Size = Size.Medium;
  console.log(mySize);
  
+//functions
+function calculateTax(anincome: number) {
+     return "3"
+}
