@@ -14,7 +14,7 @@ Included a pdf with my notes from the class. justsomeTypeScript ✌️
 TypeScript Tutorial
 </a>
 by Programming with Mosh
-<br>
+<br><br>
 Take care, code safe! 💻
 
 
