@@ -11,7 +11,7 @@ Included a pdf with my notes from the class. justsomeTypeScript ✌️
 <br>
 
 <a href="https://youtu.be/d56mG7DezGs?si=5hPBFeF0jPFIWyRq" target="_blank" rel="noopener noreferrer">
-TypeScript Tutorial</a> by Programming with Mosh
+TypeScript Tutorial</a> by Programming with Mosh.
 <br><br>
 
 
